@@ -1,0 +1,6 @@
+#res_script{
+  display: flex;
+  flex-direction: column;
+}
+.typdoc_OTHER{order:3;}
+.typdoc_OUV{order:2;}
